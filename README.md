@@ -18,7 +18,7 @@
 
 [![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/syedamashs)
 
-[![Twitter](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/syedamash)
+[![Twitter](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/syedamash)
 
 ---
 
