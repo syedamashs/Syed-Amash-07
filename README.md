@@ -15,12 +15,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-amash-s-457580356/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amash___07)
+
 [![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/syedamashs)
 
 ---
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,firebase,github,git,postman)](https://skillicons.dev)
 <br><br>
 
 ![Junaid Jameel's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedamashs&show_icons=true&theme=dark)
